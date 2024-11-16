@@ -25,6 +25,7 @@ The primary audience for this website is ITZY’s fanbase, also known as MIDZY, 
 -View and download high-quality photos.
 
 🖌️ User Stories
+
 -As a fan, I want to view detailed member profiles, so that I can learn more about my favorite members.
 
 -As a casual listener, I want to explore ITZY’s discography, so that I can discover their music.
