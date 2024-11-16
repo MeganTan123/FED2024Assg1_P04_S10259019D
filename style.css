@@ -36,6 +36,27 @@ nav a {
 nav a:hover {
     color: #ff70a6;
 }
+
+/* About Section */
+#about {
+    padding: 20px;
+    text-align: center;
+}
+
+/* Video container to arrange videos side by side */
+.video-container {
+    display: flex;                  /* Use flexbox for layout */
+    justify-content: center;        /* Center the videos horizontally */
+    gap: 20px;                      /* Add space between the videos */
+    flex-wrap: wrap;                /* Allow wrapping if screen is too small */
+    margin-top: 20px;               /* Add some space above the videos */
+}
+
+iframe {
+    width: 400px;
+    height: 300px;
+    border-radius: 5px;             /* Optional: round corners of the videos */
+}
   
 /* Main Content */
 main {
@@ -67,19 +88,19 @@ iframe {
 /* Members Section */
 #members {
     padding: 20px;
-    text-align: center; /* Center-align the heading */
+    text-align: center;
 }
 
 .members-heading {
     color: #ff70a6;
     font-size: 28px;
-    margin-bottom: 20px; /* Space below the heading */
+    margin-bottom: 20px;
 }
 
 .member-cards {
     display: flex;
     flex-wrap: wrap;
-    justify-content: flex-start; /* Aligns member cards to the left */
+    justify-content: flex-start;
     gap: 20px;
 }
 
@@ -108,7 +129,40 @@ iframe {
     font-size: 16px;
     color: #666;
 }
-  
+
+/* Music Videos Section */
+#music-videos {
+    padding: 20px;
+    text-align: center;
+}
+
+#music-videos h2 {
+    color: #ff70a6;
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+#music-videos p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.video-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+iframe {
+    width: 400px;
+    height: 300px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+
 /* Scroll to Top Button */
 #scrollToTopBtn {
     position: fixed;
@@ -117,18 +171,89 @@ iframe {
     background-color: #ff70a6;
     color: white;
     border: none;
-    padding: 10px 15px;
-    border-radius: 50%;
+    padding: 10px 20px;
     cursor: pointer;
+    border-radius: 50%;
     font-size: 20px;
     display: none;
 }
-  
+
 #scrollToTopBtn:hover {
     background-color: #ff3f6f;
 }
   
-/* Footer */
+/* Contact Section */
+#contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+/* Contact Form */
+form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 500px;
+    width: 100%; /* Ensure the form is responsive */
+    margin: 0 auto;
+}
+
+form label {
+    font-size: 16px;
+    color: #333;
+    display: block;
+    margin-bottom: 5px; /* Slightly reduce margin */
+}
+
+form input,
+form textarea {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 15px; /* Adjust margin for spacing */
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+form textarea {
+    resize: vertical;
+    height: 120px;
+}
+
+form button {
+    background-color: #ff70a6;
+    color: white;
+    border: none;
+    padding: 12px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+    width: 100%;
+    transition: background-color 0.3s ease; /* Smooth transition on hover */
+}
+
+form button:hover {
+    background-color: #ff3f6f;
+}
+
+/* Optional: Center the form text */
+#contact h2,
+#contact p {
+    text-align: center;
+}
+
+#formStatus {
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+  
+/* Footer Section */
 footer {
     background-color: #222;
     color: white;
