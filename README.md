@@ -26,6 +26,7 @@ As an event organizer, I want to find the latest news and updates, so that I can
 As a content creator, I want access to high-quality images, so that I can create fan art and edits.
 
 Wireframes can be found here: 
+
 For non-preview version: https://www.figma.com/design/aK5pC2zFJHt5ABRfnB9mAU/FED_S10259019_Megan-Tan-Wen-Xin_Assg1_Wireframe?node-id=0-1&node-type=canvas&t=HjFaGKtmTmmGmYlV-0
 
 For preview version: https://www.figma.com/proto/aK5pC2zFJHt5ABRfnB9mAU/FED_S10259019_Megan-Tan-Wen-Xin_Assg1_Wireframe?node-id=28-1169&node-type=canvas&t=HjFaGKtmTmmGmYlV-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
