@@ -68,13 +68,9 @@ Existing Features
 
 Features Left to Implement
 
-🌟 Fan Forum
+🌟 Fan Discussion Board
 
 -Create a discussion board for fans to connect and share content.
-
-🌟 Photo Gallery
-
--Provides a collection of high-resolution images and concept photos.
 
 🌟 Fan Zone
 
@@ -152,7 +148,15 @@ Chaeryeong image: https://www.pinterest.com/pin/586171707783467095/
 
 Yuna image: https://www.pinterest.com/pin/13862711348854139/
 
+Yeji cute image: https://www.pinterest.com/pin/592997475968598505/
 
+Lia cute image: https://www.pinterest.com/pin/591167888622028015/
+
+Ryujin cute image: https://www.pinterest.com/pin/656188608240467590/
+
+Chaeryeong cute image:https://www.pinterest.com/pin/640426009545498675/
+
+Yuna cute image: https://www.pinterest.com/pin/582442164339319093/
 
 
 Music video/Performance video links:
