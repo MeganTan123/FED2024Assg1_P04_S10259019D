@@ -188,5 +188,15 @@ Music video/Performance video links:
 
 "Imaginary Friend" MV:https://www.youtube.com/embed/NrUlydECU-8?list=PLrVZv12vFuput7PmsRNktYalmj7ENMPe6
 
+Discography:
+
+
+Variety Media:
+My Favourite ITZY: https://youtu.be/7YkY2bXTNUc
+
+One Summer Day: https://youtu.be/V2DmRclndEo
+
+ITZY on KStarNextDoor: https://youtu.be/P9OlmjK4qpE?list=PLAblzvlmq66Jpq9E1ExiKqwnDU75TbKtB
+
 🙌 Acknowledgments
 Special thanks to MIDZY communities for their support and inspiration.
