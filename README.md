@@ -127,7 +127,7 @@ Manual Testing Scenarios
 🙌 Credits
 
 🙌 Content
-Member profiles sourced from official ITZY profiles and fan sites.
+Member profiles sourced from: https://kprofiles.com/itzy-members-profile/
 
 News and updates referenced from official JYP announcements.
 
@@ -189,7 +189,7 @@ Music video/Performance video links:
 "Imaginary Friend" MV:https://www.youtube.com/embed/NrUlydECU-8?list=PLrVZv12vFuput7PmsRNktYalmj7ENMPe6
 
 Discography:
-
+https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3?si=Cy1Vg15oRdiJoidCU9aEWQ
 
 Variety Media:
 My Favourite ITZY: https://youtu.be/7YkY2bXTNUc
@@ -197,6 +197,12 @@ My Favourite ITZY: https://youtu.be/7YkY2bXTNUc
 One Summer Day: https://youtu.be/V2DmRclndEo
 
 ITZY on KStarNextDoor: https://youtu.be/P9OlmjK4qpE?list=PLAblzvlmq66Jpq9E1ExiKqwnDU75TbKtB
+
+Mix & Max 'Break My Heart Myself' covered by ITZY Yeji & Ryujin: https://youtu.be/UdiaQcAjzT0
+
+Artist Of The Month 'Cry for Me' covered by ITZY Chaeryeong: https://youtu.be/msSTlqos4fQ
+
+Yuna 'U-Go-Girl' 2022 KSB Song Festival: https://youtu.be/4c7TR49-4dk
 
 🙌 Acknowledgments
 Special thanks to MIDZY communities for their support and inspiration.
