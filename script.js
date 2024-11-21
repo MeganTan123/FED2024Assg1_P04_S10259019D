@@ -125,5 +125,5 @@ document.getElementById('message-form').addEventListener('submit', function(even
       document.getElementById('fan-message').value = '';
   } else {
       alert('Please write a message!');
-  }
-});
+  } 
+}); 
