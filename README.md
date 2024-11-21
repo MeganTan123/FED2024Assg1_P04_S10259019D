@@ -129,7 +129,17 @@ Manual Testing Scenarios
 🙌 Content
 Member profiles sourced from: https://kprofiles.com/itzy-members-profile/
 
-News and updates referenced from official JYP announcements.
+Member's instagrams:
+
+Yeji: https://www.instagram.com/yezyizhere/
+
+Lia: https://www.instagram.com/lia_loves___/
+
+Ryujin: https://www.instagram.com/iamfinethankyouandryu/
+
+Chaeryeong: https://www.instagram.com/chaerrry0/
+
+Yuna: https://www.instagram.com/igotyuandme/
 
 Official Merchandise Store Link: https://en.thejypshop.com/category/merch/237/
 
