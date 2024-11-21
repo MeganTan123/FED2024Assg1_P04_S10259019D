@@ -199,7 +199,7 @@ Music video/Performance video links:
 "Imaginary Friend" MV:https://www.youtube.com/embed/NrUlydECU-8?list=PLrVZv12vFuput7PmsRNktYalmj7ENMPe6
 
 Discography:
-https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3?si=Cy1Vg15oRdiJoidCU9aEWQ
+ITZY's Spotify: https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3?si=Cy1Vg15oRdiJoidCU9aEWQ
 
 Variety Media:
 My Favourite ITZY: https://youtu.be/7YkY2bXTNUc
