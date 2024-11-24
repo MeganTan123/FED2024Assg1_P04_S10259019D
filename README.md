@@ -68,11 +68,11 @@ Existing Features
 
 Features Left to Implement
 
-🌟 Fan Discussion Board
+🌟 Fan Discussion Board (Completed)
 
 -Create a discussion board for fans to connect and share content.
 
-🌟 Fan Zone
+🌟 Fan Zone (Completed)
 
 -Includes interactive polls and a space for fan messages.
 
