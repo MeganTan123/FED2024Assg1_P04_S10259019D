@@ -127,3 +127,4 @@ document.getElementById('message-form').addEventListener('submit', function(even
       alert('Please write a message!');
   } 
 }); 
+
