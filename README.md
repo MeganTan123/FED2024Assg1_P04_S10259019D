@@ -214,5 +214,3 @@ Artist Of The Month 'Cry for Me' covered by ITZY Chaeryeong: https://youtu.be/ms
 
 Yuna 'U-Go-Girl' 2022 KSB Song Festival: https://youtu.be/4c7TR49-4dk
 
-🙌 Acknowledgments
-Special thanks to MIDZY communities for their support and inspiration.
