@@ -213,4 +213,4 @@ Mix & Max 'Break My Heart Myself' covered by ITZY Yeji & Ryujin: https://youtu.b
 Artist Of The Month 'Cry for Me' covered by ITZY Chaeryeong: https://youtu.be/msSTlqos4fQ
 
 Yuna 'U-Go-Girl' 2022 KSB Song Festival: https://youtu.be/4c7TR49-4dk
-
+ 
