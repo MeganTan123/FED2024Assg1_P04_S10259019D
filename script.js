@@ -94,6 +94,7 @@ document.addEventListener('DOMContentLoaded', function () {
 function scrollToTop() {
   window.scrollTo({ top: 0, behavior: 'smooth' });
 }
+
 // Poll Voting Functionality
 document.getElementById('poll-form').addEventListener('submit', function(event) {
   event.preventDefault();
