@@ -38,6 +38,7 @@ window.onscroll = function() {
           formStatus.className = "error";
       }
   });
+  
   // Handle form submission for the discussion board
 document.getElementById('discussionForm').addEventListener('submit', function (event) {
   event.preventDefault(); // Prevent page reload on form submit
